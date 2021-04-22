@@ -13,7 +13,7 @@ Tópicos abordados no curso
 - Explicação e aplicação do conceito paralax para algumas imagens utilizadas no site.
 - Utilização da Biblioteca Progressbar em JS, para realizar a animação com os dados fornecidos pelo "cliente".
 - Ensinado como importar os ícones do FontAwesome e Google Fonts no projeto.
-- Explicação e utilização de filtros em JS para apresentar somente os projetos desejados por quem esta acessando o site.
+- Explicação e utilização de filtros em JS para apresentar somente os projetos desejados por quem está acessando o site.
 - Aplicação de responsividade no site através das Media Query do CSS.
 
 Conclusão Geral 
