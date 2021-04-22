@@ -1,4 +1,4 @@
-Projeto Baseado no curso de Bootstrap do canal Matheus Battisti do youtube.
+Projeto realizado no curso de Bootstrap do canal Matheus Battisti do youtube.
 
 Link onde o curso foi realizado https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag
 
