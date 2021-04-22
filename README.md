@@ -7,8 +7,9 @@ Neste curso foi realizado um projeto utilizando HTML5, CSS3, Bootstrap 4 e JavaS
 Topicos abordados no curso
 
 - Instalação das bibliotecas necessarias para utilização do BootStrap.
-- Conceito de GRIDS e Collapse.
+- Conceito de Container, GRIDS e Collapse.
 - Construção completa da barra de navegação do site (NavBar).
+- Montagem de carrousel animado como atração principal do site.
 - Explicação e aplicação do conceito paralax para algumas imagens utilizadas no site.
 - Utilização da Biblioteca Progressbar em JS, para realizar a animação com os dados fornecidos pelo "cliente".
 - Ensinado como importar os icones do FontAwesome e Google Fonts no projeto.
